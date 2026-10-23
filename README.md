@@ -13,7 +13,9 @@ The group acted as consultants recommending policies to raise Canada's standing 
 - **Findings reports (`reports/`).** One report per stream comparing Canada with leading countries on R&D spending, startup funding, AI policy, talent and industry-academic collaboration, ending in policy recommendations that fed the group's proposal.
 - **Visualisations (`notebooks/policy_visualizations.ipynb`).** 14 matplotlib and seaborn figures for the report and pitch: Canada against top performers on GII factors, top 15 features by importance, a policy-to-factor matrix, a radar chart, the policy roadmap, projected GII score, annual and cumulative budget impact, comparative budget allocation and KPI growth targets.
 
-Teammates' parts, not included here: GII PDF extraction and feature engineering, the Kaggle dataset analysis, Google Scholar collection, the policy proposal, implementation steps and the chatbot.
+- **Review, report and presentation.** Edited every section of the group report in review and did much of the presentation design.
+
+Teammates' parts, not included here: GII PDF extraction and feature engineering, the Kaggle dataset analysis, Google Scholar collection, the policy proposal, the implementation steps and the chatbot demo.
 
 ## Notes
 
